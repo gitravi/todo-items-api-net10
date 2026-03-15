@@ -1,0 +1,60 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Build Results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Publish
+publish/
+*.pubxml
+*.publishsettings
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Others
+*.vspscc
+*.vssscc
+_ReSharper*/
+*.DotSettings.user
+.idea/
+*.swp
+*.bak
+*.tmp
+*.old
+*.orig
+
+# Rider
+.idea/
+*.sln.iml
+
+# Local history
+.localhistory/
+
+# User-specific files
+*.vs/
+.DS_Store
+obj/project.assets.json
+obj/project.nuget.cache
+obj/TodoApi.csproj.nuget.dgspec.json
